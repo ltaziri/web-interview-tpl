@@ -12,8 +12,11 @@ You will need [yarn](https://classic.yarnpkg.com/en/docs/install) installed and 
 ----- 8< ---- 8< ----- 8< ------
 
 ## Available Scripts
-
 In the project directory, you can run:
+
+### `yarn`
+
+Installs all the necessary packages 
 
 ### `yarn start`
 
